@@ -8,6 +8,10 @@ Work dedicated to user accounts
 
 * [NYPL User Account Project >>](https://drive.google.com/open?id=0B6GgKeOxL8IeRWhCU3RSVW5LTzA)
 * [Account Login and Registration (2015) >>](https://drive.google.com/open?id=0B6GgKeOxL8IefjlwTkJYUmxFMnR1RVROMU5jMEFYdXNrQk00RUo1eXFOTlBwVzZrTERBR2s)
+* [Login-Logout in Header Dropdown (2016-2017) >>](https://drive.google.com/open?id=0ByFzLyCjDJzWMDhUR1lRNlpNeUU)
+* [Get a Library Card (2017) >>](https://drive.google.com/open?id=0ByFzLyCjDJzWWi1UTXhpS092amc)
+* [Research and Circ Item Holds View (2017) >>](https://drive.google.com/open?id=0ByFzLyCjDJzWRDRkLXRTb0tDZTg)
+* [Mobile Barcode (2017) >>](https://drive.google.com/open?id=0ByFzLyCjDJzWUUpKVUpHTm1KWWM)
 
 ### Accessibilty
 A spread sheet of accessibility tools
