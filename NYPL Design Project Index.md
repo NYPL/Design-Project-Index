@@ -31,27 +31,28 @@ A variety of librarian driven book lists
 * [Best Books Teens 2017 >>](https://www.nypl.org/books-music-dvds/recommendations/best-books/ya)
 * [Best Books Childrens 2017 >>](https://www.nypl.org/books-music-dvds/recommendations/best-books/childrens)
 
-### [Discovery >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoM2VzSmNPRVZRcjg?usp=sharing)
-  > See More:
-  * [Initial Discovery work from first team >>](https://nypl-discovery.github.io/discovery-designs/)
+### Discovery (aka: ReCAP)
+  * [S>>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoM2VzSmNPRVZRcjg?usp=sharing)
+  * [Initial Discovery work from first & Second teams >>](https://nypl-discovery.github.io/discovery-designs/)
   * [UX & Design Files >>](https://drive.google.com/drive/folders/0B2LQIUUuUDJdNTdPaDYxSTBENEU?usp=sharing)
+  * [http://discovery.nypl.org](http://discovery.nypl.org/research/collections/shared-collection-catalog/)
 
-### [End of Year Fundraising >>](https://drive.google.com/open?id=1uqVks4A6jBx9oJTXDRft9DpfBA5HDA47)
- * 2017
+### End of Year Fundraising
+* [2017 >>](https://drive.google.com/open?id=1uqVks4A6jBx9oJTXDRft9DpfBA5HDA47)
 
-### [Ethyl Style Guide >>](http://ethyl.nypl.org/)
- * Style Guide 2
+### Style Guides
+
+* _Powers most NYPL Drupal pages_: [NYPL Base Github pages >>](http://nypl.github.io/NYPLBase/styleguide/index.html)
+* [NYPL Base Github repo >>](https://github.com/NYPL/NYPLBase)
+
+* Styles based on [Second Storey Work (See Below:)](#Second-Storey) [Ethyl Web Standards >>](http://ethyl.nypl.org/)
+
+* [NYPL Design Toolkit >>](https://nypl.github.io/design-toolkit/)
 
 ### [Fundraising 2017 >>](https://app.moqups.com/courtneylmcgee/yIW1Hti5DS/share)
 
 ### MTA ~ Subway Library
 [Project Files >>](https://drive.google.com/drive/folders/0B5uAYbtOQBxGNFUySWNaUkc4WXc?usp=sharing)
-
-### NYPL Base
-* [NYPL Base Github pages >>](http://nypl.github.io/NYPLBase/styleguide/index.html)
-* [Github repo](https://github.com/NYPL/NYPLBase)
-
-### [NYPL Design Toolkit >>](https://nypl.github.io/design-toolkit/)
 
 ### [NYPL Home Page >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoS1g1QTZFM3h1Q2c?usp=sharing)
 
@@ -68,5 +69,9 @@ A variety of librarian driven book lists
 ### Typography
 [NYPL Typefaces >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcobVpuak5HZkt2eE0?usp=sharing)
 
+### Second-Storey
+
 ### SimplyE
+Git repo w/ static Sketch files
 * [List & Lane Manager Admin UI](https://github.com/ricardoom/SE-Admin-UI)
+* [OPDS Web Client](https://github.com/NYPL-Simplified/opds-web-client)
