@@ -40,9 +40,8 @@ A variety of librarian driven book lists
 
 ### [Fundraising 2017 >>](https://app.moqups.com/courtneylmcgee/yIW1Hti5DS/share)
 
-### [Get a library card >>](https://drive.google.com/drive/folders/0B_L4KDeJ_Xcoc1d0dkFPZURKQmM?usp=sharing)
-
-### [MTA ~ Subway Library >>](https://drive.google.com/drive/folders/0B5uAYbtOQBxGNFUySWNaUkc4WXc?usp=sharing)
+### MTA ~ Subway Library
+[Project Files >>](https://drive.google.com/drive/folders/0B5uAYbtOQBxGNFUySWNaUkc4WXc?usp=sharing)
 
 ### NYPL Base
 * [NYPL Base Github pages >>](http://nypl.github.io/NYPLBase/styleguide/index.html)
@@ -52,11 +51,18 @@ A variety of librarian driven book lists
 
 ### [NYPL Home Page >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoS1g1QTZFM3h1Q2c?usp=sharing)
 
-### [NYPL Iconographix >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoOVptcnl6OGM3b0U?usp=sharing)
+### Iconography
+ [NYPL Iconographix >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoOVptcnl6OGM3b0U?usp=sharing)
   * SVG & Adobe Illustrator files
+  [DGX SVG Icons](https://nypl.github.io/dgx-svg-icons/)
+  [Toolkit Index]()
 
 ### [NYPL Landing Pages >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoQzIwZUVJZXJPX00?usp=sharing)
 
 ### [NYPL Search Beta >>](https://www.nypl.org/searchbeta/cactus/)
 
-### [NYPL Typefaces >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcobVpuak5HZkt2eE0?usp=sharing)
+### Typography
+[NYPL Typefaces >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcobVpuak5HZkt2eE0?usp=sharing)
+
+### SimplyE
+* [List & Lane Manager Admin UI](https://github.com/ricardoom/SE-Admin-UI)
