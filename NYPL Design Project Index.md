@@ -21,6 +21,10 @@ A project to corral and organize past, present and future design projects at the
 
 > [Best Books 2017 wireframe >>](https://app.moqups.com/courtneylmcgee/UWrYrdtSFF/edit/page/a366d3e87)
 
+> [Best Books Teens 2017 >>](https://www.nypl.org/books-music-dvds/recommendations/best-books/ya)
+
+> [Best Books Childrens 2017](https://www.nypl.org/books-music-dvds/recommendations/best-books/childrens)
+
 ### [Discovery >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoM2VzSmNPRVZRcjg?usp=sharing)
   > See More:
   * [Initial Discovery work from first team >>](https://nypl-discovery.github.io/discovery-designs/)
