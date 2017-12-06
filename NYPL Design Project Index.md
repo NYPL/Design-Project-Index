@@ -57,8 +57,8 @@ A variety of librarian driven book lists
 
 ### SimplyE
 * _Git repo w/ static Sketch files_: [List & Lane Manager Admin UI >>](https://github.com/ricardoom/SE-Admin-UI)
-* [OPDS Webclient >>](http://opds-browser-demo.herokuapp.com/collection/http%3A%2F%2Fcirculation.librarysimplified.org/)
-  * [OPDS Web Client Repo >>](https://github.com/NYPL-Simplified/opds-web-client)
+* [OPDS Web Catalog >>](http://opds-browser-demo.herokuapp.com/collection/http%3A%2F%2Fcirculation.librarysimplified.org/)
+  * [OPDS Web Catalog (Client) Repo >>](https://github.com/NYPL-Simplified/opds-web-client)
 * [Circulation Alpha >>](http://circulation.alpha.librarysimplified.org/admin/)
 
 ### Style Guides
