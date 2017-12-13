@@ -54,6 +54,10 @@ A variety of librarian driven book lists
   * [Static Files >>](https://drive.google.com/drive/folders/0B_L4KDeJ_XcoMTlLVi05YmV3d1E?usp=sharing)
   * [Production Beta Blog Landing Page >>](https://www.nypl.org/blog/beta/)
   * [Example Beta Blog Post >>](https://www.nypl.org/blog/beta/2017/11/21/librarian-podcast-ep-67)
+* Grid Examples (Static ````.png```` files)
+  * [3 Column Mobile](https://drive.google.com/open?id=1AsNOpo5OvXcXBznY85x-DtQG0vQNMTr4)
+  * [Tablet](https://drive.google.com/open?id=1xkJ3z_zsF5ZEowCQzOBZRZeWt7_KWjg7)
+  * [9 Column Desktop](https://drive.google.com/open?id=1ACIRJl-zPXBjPHT3KqyoKFUsRHEmaxpc)
 
 ### SimplyE
 * _Git repo w/ static Sketch files_: [List & Lane Manager Admin UI >>](https://github.com/ricardoom/SE-Admin-UI)
